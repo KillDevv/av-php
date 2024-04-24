@@ -1,9 +1,9 @@
 <?php
 
 // Token de acceso de tu bot
-$token = '6067441336:AAGCjo79vaQDTvOybDTR0A4qLxzosXB2Ehc';
+$token = '6872561123:AAEb7edOlWt0Q7iMFOzasS9C6DZfcfF1kgc';
 // ID del chat al que enviarás el mensaje
-$chat_id = '-1001996377468';
+$chat_id = '6279340085';
 
 function enviarMensaje($mensaje, $link1, $link2)
 {  
